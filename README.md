@@ -16,6 +16,11 @@ This webapp is used for breast cancer disease prediction and recommends it, if t
 
 ![Screenshot (13)](https://user-images.githubusercontent.com/74549015/133928520-a0ccd8dc-3341-41da-8759-53e907012269.png)
 
+### Flowchart of METHODOLOGY
+
+![1](https://user-images.githubusercontent.com/74549015/133929375-086bdec4-8254-4f26-8e31-8f730b8c2834.jpeg)
+
+
 
 
 ## TechStack
